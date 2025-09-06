@@ -166,6 +166,11 @@ header {
 	flex-wrap: wrap;
 	position: relative;
 	gap: 30px 20px;
+	justify-content: space-between;
+}
+
+.production__list-item{
+	max-width :440px;
 }
 
 .production__item-img {
